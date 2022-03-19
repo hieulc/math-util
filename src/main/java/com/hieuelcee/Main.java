@@ -13,6 +13,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("First commit to GitHub");
         System.out.println("Seconde commit to GitHub");
+        System.out.println("Test new branch is Develop and try using command");
         
     }
 }
